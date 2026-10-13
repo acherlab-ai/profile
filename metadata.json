@@ -1,0 +1,6 @@
+{
+  "name": "AcherLab — Independent Technology Ecosystem",
+  "description": "AcherLab is the parent technology ecosystem of SuzLab exploring AI, cloud infrastructure, developer tools, and digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
